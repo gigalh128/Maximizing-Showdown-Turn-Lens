@@ -1,2 +1,2 @@
 # Maximizing-Showdown-Turn-Lens
-An attempt to figure out how to make a singular turn have the most amount of text returned by showdown possible
+Feel free to send a PR if you think you can optimize a method I currently have listed. This repo will have scripts associated with the methods I come up with so that you can run these without any effort for yourself.
