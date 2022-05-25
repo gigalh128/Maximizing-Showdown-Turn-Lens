@@ -22,3 +22,4 @@
 * damage from future sight (you get 2 turns of actions afterwards) - 2 lines, one from dmg & other from future sight ending
 * taunt (lasts 2 turns) - 1 line when ending
 * reflect/light screen/safeguard (5 turns) - 1 line when ending
+* heal from berry - 2 turns (1 to eat, 1 to heal)
